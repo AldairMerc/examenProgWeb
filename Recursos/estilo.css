@@ -1,0 +1,79 @@
+body{
+	background-color: rgb(26, 188, 156);
+}
+
+table{
+	margin-left: auto; 
+	margin-right:auto;
+}
+
+.tableAuto{
+		width: 100%;
+}
+.purpleBG{
+	background-color: rgb(155, 89, 182);
+}
+
+.redBG{
+	background-color: rgb(231, 76, 60);
+
+}
+
+.whiteBG{
+	background-color: white;
+}
+
+.cyanBG{
+	background-color: rgb(0, 255, 255);
+}
+
+.greenTb{
+	background-color: rgb(46, 204, 113);
+}
+
+.textCenter{
+	text-align: center;
+}
+
+.masW{
+	width: 80%;
+}
+
+.masH{
+	height: 120px;
+}
+
+.whiteBorder{
+	border: 2px solid white;
+}
+
+.whiteText{
+	color: white;
+}
+
+.w50{
+	width: 50%;
+}
+
+.borPointW{
+	border: white dashed 2px;
+}
+
+.borPointR{
+	border: red dashed 2px;
+	padding: 1px;	
+}
+
+.wFTC{
+	text-align: center;
+	color: white;
+}
+
+.w98{
+	width: 98%;
+}
+
+.alignC{
+	margin-left: auto; 
+	margin-right:auto;
+}
